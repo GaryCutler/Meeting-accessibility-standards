@@ -16,5 +16,13 @@ Made changes to lines of css using unnecessary resources and commented out the l
 
 Made sure code was as easy to read and in Sequential order.
 
+## Link to depolyed application 
+https://garycutler.github.io/Meeting-accessibility-standards/
+
+## Website image 
+![Getting Started](./assets/01-html-css-git-homework-demo.png)
+
+
+
 
 
